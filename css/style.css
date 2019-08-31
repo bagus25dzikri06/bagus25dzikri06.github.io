@@ -3,8 +3,12 @@
 	border: 5px solid #ee153c;
 }
 
-.navbar-nav.navbar-center {
-    position: absolute;
-    left: 50%;
-    transform: translatex(-50%);
+.navbar-nav {
+    float: none;
+    text-align: center;
+}
+
+.navbar-nav li {
+	display: inline-block;
+	float: none;
 }
