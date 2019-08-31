@@ -3,6 +3,6 @@
 	border: 5px solid #ee153c;
 }
 
-.navbar, .jumbotron {
+.navbar-brand .nav-link .jumbotron {
 	text-align: center;
 }
