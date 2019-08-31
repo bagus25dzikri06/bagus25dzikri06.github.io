@@ -2,3 +2,7 @@
 	width: 200px;
 	border: 5px solid #ee153c;
 }
+
+.navbar, .jumbotron {
+	text-align: center;
+}
