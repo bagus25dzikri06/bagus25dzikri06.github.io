@@ -23,7 +23,12 @@
 .portofolio {
 	background-color: blue;
 }
-.container hr {
+.about hr {
 	width: 65px;
 	border: 3px solid #bccc14;
+}
+
+.portofolio hr {
+	width: 65px;
+	border: 6px solid #3abb41;
 }
