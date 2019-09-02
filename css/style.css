@@ -12,6 +12,10 @@
 	font-size: 11px;
 }
 
+.container {
+	background-color: yellow;
+}
+
 .container hr {
 	width: 65px;
 	border: 3px solid #bccc14;
