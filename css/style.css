@@ -3,6 +3,10 @@
 	border: 5px solid #ee153c;
 }
 
+.navbar-nav {
+	background-color: light-blue;
+}
+
 .navbar-brand {
 	font-family: Trebuchet MS;
 }
